@@ -1,0 +1,10 @@
+# Jupyter Environment
+jupyter
+
+# qiskit
+qiskit = 2.2.1
+qiskit[visualization]
+
+# Math and Utilities
+
+# Display 
