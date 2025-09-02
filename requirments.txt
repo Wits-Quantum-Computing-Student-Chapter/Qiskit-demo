@@ -4,7 +4,5 @@ jupyter
 # qiskit
 qiskit == 2.1.1
 qiskit[visualization]
-
-# Math and Utilities
-
-# Display 
+qiskit-ibm-runtime
+qiskit_aer
